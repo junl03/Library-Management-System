@@ -6,4 +6,5 @@ Three user login types (Student, Teacher, Librarian)
 Usernames and passwords are read .txt file
 Books and their associated copies are read from .txt files
 
-Does not support simultaneous logins but supports different user logins
+main.cpp supports single user login
+test.cpp oes not support simultaneous logins but supports different user logins
