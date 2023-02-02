@@ -1,0 +1,7 @@
+2	Bob	bobpass
+0	HaHa	7012
+1	James	23
+1	Jay-Z	music
+2	boss	bosspass
+2	jun	1234
+0	me	nopass
