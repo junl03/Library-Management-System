@@ -1,5 +1,5 @@
 # Library-Management-System
-Library Environment Simulation using C++ (On Hold)
+Library Environment Simulation (On Hold)
 
 Constructed using binary trees and linked lists
 Three user login types (Student, Teacher, Librarian)
